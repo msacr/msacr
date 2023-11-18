@@ -1,4 +1,4 @@
-# 便宜Twitter令牌号：[hdd.cm](https://hdd.cm/)  单价低至0.2元
+# 便宜Twitter令牌号：[hdd.cm](https://hdd.cm/)  单价低至0.2元 (给姚哥打个广告）
 
 # 依赖：
 ```
